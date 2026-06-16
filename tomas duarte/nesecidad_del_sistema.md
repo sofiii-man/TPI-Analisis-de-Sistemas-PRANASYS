@@ -2,4 +2,4 @@
 
 Se identifica la necesidad de desarrollar una plataforma digital (aplicación móvil y/o web) denominada pranasys, que actúe como punto centralizado de información sobre retiros holísticos. El sistema debe permitir a los usuarios buscar retiros aplicando filtros por fecha, ubicación, costo y temática; guardar aquellos que les interesen; registrar notas personales; y llevar un seguimiento del estado de cada retiro según su propio proceso (interesado, consultado, reservado, asistido o descartado). Adicionalmente, debe facilitar el contacto directo con los organizadores a través de los canales que estos ya utilizan (WhatsApp e Instagram).
 El sistema apunta a resolver la fragmentación de información, reducir el esfuerzo manual del usuario y mejorar la experiencia de quienes buscan participar en este tipo de actividades.
-
+ 
